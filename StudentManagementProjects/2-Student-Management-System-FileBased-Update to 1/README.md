@@ -71,7 +71,7 @@ We are actively working to enhance this project soon.
 
 Created by **Ibrahim Nashwan** – Computer Science student  
 Sana'a University – 2nd year  
-GitHub: [YourGitHubUsername]
+GitHub: [IbrahimNashwan]
 
 ---
 
